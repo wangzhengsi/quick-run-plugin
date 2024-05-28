@@ -1,0 +1,30 @@
+/.settings/
+/.logs/
+/target/
+/.classpath
+/.project
+/.idea/
+*.iml
+*.log
+*.gz
+*.log*
+.DS_Store
+/lib
+
+### Eclipse ###
+.classpath
+.project
+.settings
+
+### IntelliJ IDEA ###
+.idea
+
+### Maven ###
+target/
+.mvn
+.flattened-pom.xml
+
+### Gradle ###
+.gradle
+/logs/
+build/
