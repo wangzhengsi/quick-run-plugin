@@ -3,4 +3,6 @@
 <p>1. 运行项目。</p>
 <p>2. 右键点击您要调用的方法。</p>
 <p>3. 从菜单中选择<strong>“Run Method”</strong>。</p>
-<img src="https://github.com/wangzhengsi/quick-run-plugin/assets/82985343/b788ea51-e0c9-4183-be31-9a80bc41b612" alt="示例图片">
+<img src="https://github.com/wangzhengsi/quick-run-plugin/assets/82985343/b788ea51-e0c9-4183-be31-9a80bc41b612" alt="p1">
+<img src="https://github.com/wangzhengsi/quick-run-plugin/assets/82985343/f4115bf3-aede-4784-8567-cd5dc1096ceb" alt="p2">
+<img src="https://github.com/wangzhengsi/quick-run-plugin/assets/82985343/ffeb43a2-37a6-4df2-9503-f16972c5d922" alt="p3">
